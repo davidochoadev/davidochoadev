@@ -8,11 +8,11 @@
 
 ## 😼 **About me**
 
-- Hello, and welcome to my GitHub profile! My name is David Ochoa, and I am a self-taught web developer.
+- Hello, and welcome to my GitHub profile! My name is David Ochoa, and I am a web developer.
 
-- Currently, I am focusing on completing projects and enhancing my skills in front-end technologies such as React, HTML5, CSS3, and JavaScript.
+- Currently, I am focusing on completing projects and enhancing my skills in technologies such as Laravel, Astro and AdonisJS.
 
-- I remain committed to continuous learning and exploring new technologies and best practices to constantly improve my abilities as a front-end developer. I am open to new challenges and opportunities for professional growth.
+- I remain committed to continuous learning and exploring new technologies and best practices to constantly improve my abilities as a web developer. I am open to new challenges and opportunities for professional growth.
 
 
 <br><br>
